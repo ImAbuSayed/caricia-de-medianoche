@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/caricia-de-medianoche/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Caricia de medianoche](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/caricia-de-medianoche/) |
+| **Get License** | [Obtain a Music License for Caricia de medianoche](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/caricia-de-medianoche/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `d39504c2029c6454166567d199afc65001db3d0ac643b4ae47be3c550e9656a9` |
 | **Timestamp** | June 21, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

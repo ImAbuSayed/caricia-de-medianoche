@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Caricia de medianoche
+
+This log tracks the cryptographic history and versioning for the song **Caricia de medianoche** (caricia-de-medianoche).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-21T02:49:08.160034 | `v1` | `d39504c2029c6454166567d199afc65001db3d0ac643b4ae47be3c550e9656a9` | `dd7da979baf3a3c4af46f8c2e93aebc92b1d14c73d8b117f2ea8edddc17d8b6f` | `2026-06-21_caricia-de-medianoche-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
